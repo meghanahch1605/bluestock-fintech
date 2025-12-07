@@ -6,7 +6,7 @@ This system includes:
 
 * 🔐 Authentication (JWT-based)
 * 🏢 Company onboarding & job posting
-* 👤 Candidate registration, resume upload & job applications
+* 👤 Candidate registration, resume upload & job application
 * 🛠 Admin approval dashboard
 * ☁️ Cloudinary integration
 * 🗄 PostgreSQL database
